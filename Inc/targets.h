@@ -34,6 +34,7 @@
 // #define GD32SKYSTARS25
 // #define GD32SKYSTARS30
 // #define GD32SKYSTARS40
+#define NEUTRONRC_G071
 #endif
 
 // GLOBAL
